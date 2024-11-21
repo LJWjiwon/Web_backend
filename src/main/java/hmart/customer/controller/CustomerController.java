@@ -12,6 +12,7 @@ import org.springframework.web.bind.annotation.RequestParam;
 import java.util.List;
 import java.util.Optional;
 
+//git 연습
 @Controller
 public class CustomerController {
     private final CustomerService customerService;
